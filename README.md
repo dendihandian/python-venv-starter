@@ -9,6 +9,12 @@ Starter repository for your python project with basic virtualenv setup.
 
 ## Setup
 
+You can clone the repository as a new project:
+
+```
+git clone https://github.com/dendihandian/python-venv-starter my-python-project
+```
+
 Go to repository directory using terminal/cmd.
 
 ### Initiating the virtualenv:
